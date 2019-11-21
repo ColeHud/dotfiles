@@ -1,0 +1,6 @@
+# CAEN
+Host mmd
+	Hostname login.engin.umich.edu
+	User colehud
+	Compression yes
+
